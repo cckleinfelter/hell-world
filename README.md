@@ -1,2 +1,2 @@
-# hell-world
+# hello-world
 new git repository
